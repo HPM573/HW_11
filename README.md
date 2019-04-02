@@ -2,7 +2,7 @@
 
 **Note**: Feel free to use any part of code from the 
 [solution](https://github.com/HPM573/HW_4_Solution) to 
-the [homework assignment 4](https://github.com/HPM573/HW_4).
+the [homework assignment 4](https://yale.instructure.com/courses/43583/assignments/92544).
 
 
 **Overview**. For the Atrial fibrillation model you developed in 
