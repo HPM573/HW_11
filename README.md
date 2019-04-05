@@ -10,7 +10,15 @@ the [homework assignment 4](https://yale.instructure.com/courses/43583/assignmen
 we want to investigate the performance of anticoagulation 
 using cost-utility and cost-benefit methods.
 
-**Problem 1: Discounted Cost and Utility (Weight 1)**. 
+**Problem 1: Modeling the effect of anticoagulation (Weight 1)**. 
+Assume that the anticoagulation relative risk in reducing stroke incidence while in “Post-Stroke” is 0.65 and 
+its relative risk in increasing mortality due to bleeding is 1.05. 
+Calculate the transition probability matrix for this scenario where patients will 
+receive anticoagulation while in state “Post-Stroke”. 
+Make sure that the sum of probabilities in each row is 1.
+
+
+**Problem 2: Discounted Cost and Utility (Weight 1)**. 
 To measure the health impact of anticoagulation, 
 we are assuming that the health utility of being in states 
 “Well”, “Post-Stroke” and “Dead” are 1, 0.9, and 0, respectively. 
@@ -32,19 +40,19 @@ Use your simulation model to estimate the discounted total cost
 and discounted total utility of patients who start in the state 
 “Well” for both treatment scenarios. You can assume that the discount rate is 3%.
 
-**Problem 2: Change in Outcomes (Weight 1)**. 
+**Problem 3: Change in Outcomes (Weight 1)**. 
 Estimate the change in the expected discounted cost, the expected discounted utility, 
 and the expected number of strokes when the anticoagulation drug is used. 
 Report the 95% confidence intervals for all your estimates.  
 
-**Problem 3: Cost-Utility Analysis (Weight 1)**. Use a cost-utility plane to display 
+**Problem 4: Cost-Utility Analysis (Weight 1)**. Use a cost-utility plane to display 
 the expected discounted incremental utility and cost form the anticoagulation drug. 
 Report the results of your cost-utility analysis in a table. 
 Make sure to include the 95% confidence intervals for all reported estimates 
 (discounted cost, discounted utility, incremental discounted cost, 
 incremental discounted utility and the ICER).   
 
-**Problem 4: Cost-Benefit Analysis (Weight 1)**. 
+**Problem 5: Cost-Benefit Analysis (Weight 1)**. 
 Plot the incremental net monetary benefit curve when the anticoagulation drugs 
 is used for varying values of willingness-to-pay. 
 Show the 95% confidence region. 
