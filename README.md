@@ -11,9 +11,7 @@ we want to investigate the performance of anticoagulation
 using cost-utility and cost-benefit methods.
 
 **Problem 1: Modeling the effect of anticoagulation (Weight 1)**. 
-Assume that the anticoagulation relative risk in reducing stroke incidence while in “Post-Stroke” is 0.65 and 
-its relative risk in increasing mortality due to bleeding is 1.05. 
-Calculate the transition probability matrix for this scenario where patients will 
+Assume that the anticoagulation relative risk in reducing stroke incidence while in “Post-Stroke” is 0.65. Calculate the transition probability matrix for this scenario where patients will 
 receive anticoagulation while in state “Post-Stroke”. 
 Make sure that the sum of probabilities in each row is 1.
 
