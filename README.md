@@ -2,11 +2,11 @@
 
 **Note**: Feel free to use any part of code from the 
 [solution](https://github.com/HPM573/HW_4_Solution) to 
-the Homework Assignment 4.
+[Homework Assignment 4](https://github.com/HPM573/HW_4_Solution).
 
 
 **Overview**. For the Atrial fibrillation model you developed in 
-[homework assignment 4](https://github.com/HPM573/HW_4_Solution), 
+[Homework Assignment 4](https://github.com/HPM573/HW_4_Solution), 
 we want to investigate the performance of anticoagulation 
 using cost-utility and cost-benefit methods.
 
