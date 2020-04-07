@@ -1,8 +1,8 @@
-# Homework Assignment 10
+# Homework Assignment 11
 
 **Note**: Feel free to use any part of code from the 
 [solution](https://github.com/HPM573/HW_4_Solution) to 
-the [homework assignment 4](https://yale.instructure.com/courses/43583/assignments/92544).
+the Homework Assignment 4.
 
 
 **Overview**. For the Atrial fibrillation model you developed in 
