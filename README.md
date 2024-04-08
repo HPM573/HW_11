@@ -11,7 +11,7 @@ we want to investigate the performance of anticoagulation
 using cost-utility and cost-benefit methods.
 
 **Problem 1: Modeling the effect of anticoagulation (Weight 1)**. 
-Assume that the anticoagulation relative risk in reducing stroke incidence while in “Post-Stroke” is 0.55 (i.e., prob{stroke under anticoagulation} = 0.55×prob{stroke when no anticoagulation}). Calculate the transition probability matrix for this scenario where patients will 
+Assume that the anticoagulation relative risk in reducing stroke incidence while in "Well" and “Post-Stroke” is 0.65 (i.e., prob{stroke under anticoagulation} = 0.65×prob{stroke when no anticoagulation}). Calculate the transition probability matrix for this scenario where patients will 
 receive anticoagulation while in state “Post-Stroke”. 
 Make sure that the sum of probabilities in each row is 1.
 
@@ -33,7 +33,7 @@ is chosen to be 1 year.
 To calculate cost, we make the following assumptions: 
 the cost incurred due to a stroke is $5,000, 
 the annual cost of being in the post-stroke state is $200, and 
-the annual cost of anticoagulation is $2000.
+the annual cost of anticoagulation is $5000.
 Use your simulation model to estimate the discounted total cost 
 and discounted total utility of patients who start in the state 
 “Well” for both treatment scenarios. You can assume that the discount rate is 3%.
@@ -55,4 +55,5 @@ Plot the incremental net monetary benefit curve when the anticoagulation drugs
 is used for varying values of willingness-to-pay. 
 Show the 95% confidence region. 
 At what level of willingness-to-pay would you recommend adopting this 
-anticoagulation drug?  
+anticoagulation drug?
+Note: Remember to increase the number of simulated patients as much as you can if the confidence intervals you get for the estimated outcoems are too wide. 
